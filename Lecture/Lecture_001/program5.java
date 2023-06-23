@@ -1,4 +1,4 @@
-package Lecture_001;
+package JAVA;
 public class program5 {
     public static void main(String[] args) {
         int a = 1, b = 2;
