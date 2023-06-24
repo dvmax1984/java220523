@@ -82,8 +82,10 @@ public class Seminar4 {
 
         System.out.println("Input your phrase:");
         String phrase = scanner.nextLine();
+        
         String[] words = phrase.split(" ");
         String[] res = new String[words.length];
+        
         for (int i = 0; i < words.length; i++) 
             res[i] = words[words.length - 1 - i];
 
@@ -93,5 +95,5 @@ public class Seminar4 {
 
         scanner.close();
     }
-    
+
 }
