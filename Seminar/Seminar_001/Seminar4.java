@@ -86,9 +86,10 @@ public class Seminar4 {
         String[] words = phrase.split(" ");
         String[] res = new String[words.length];
         
-        for (int i = 0; i < words.length; i++) 
+        for (int i = 0; i < words.length; i++) {
             res[i] = words[words.length - 1 - i];
-
+        }
+        
         for (String word : res) {
             System.out.print(word + " ");
         }
