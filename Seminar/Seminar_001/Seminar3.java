@@ -1,6 +1,6 @@
 package java220523.Seminar.Seminar_001;
 
-import java.lang.reflect.Array;
+//import java.lang.reflect.Array;
 import java.time.LocalDateTime;
 import java.util.Scanner;
 
