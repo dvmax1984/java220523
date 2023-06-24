@@ -77,25 +77,21 @@ public class Seminar4 {
     }
 
     static void reversePhrase() {
-    // Во фразе "Добро пожаловать на курс по Java" 
-    // переставить слова в обратном порядке. 
+      // Во фразе "Добро пожаловать на курс по Java" переставить слова в обратном порядке.
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Input your phrase");
+        System.out.println("Input your phrase:");
         String phrase = scanner.nextLine();
-
         String[] words = phrase.split(" ");
+        String[] res = new String[words.length];
+        for (int i = 0; i < words.length; i++) 
+            res[i] = words[words.length - 1 - i];
 
-        String res = "";
-        for (int i = 0; i < words.length; i++) {
-            String temp = words[i];
-            words[i] = words[words.length - 1 - i];
-            words[words.length - 1 - i] = temp;
-
-            res += words[i] + " ";
+        for (String word : res) {
+            System.out.print(word + " ");
         }
 
-        System.out.println(res);
         scanner.close();
     }
+    
 }
