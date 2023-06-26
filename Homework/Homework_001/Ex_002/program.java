@@ -5,17 +5,17 @@ package Homework.Homework_001.Ex_002;
 public class program {
     public static void main(String[] args) {
         
-        boolean b = true;
+        boolean flag = true;
         for (int i = 2; i <= 1000; i++) {
             for (int j = 2; j < i; j++) {
                 
                 if ((i % j) == 0) {
-                    b = false;
+                    flag = false;
                     break;
                 }
             }
-            if (b) System.out.printf("%d ", i);
-            else b = true;
+            if (flag) System.out.printf("%d ", i);
+            else flag = true;
         }
     }
 }
