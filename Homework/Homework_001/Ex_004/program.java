@@ -8,7 +8,7 @@ package Homework.Homework_001.Ex_004;
 public class program {
     public static void main(String[] args) {
 
-        System.out.printf("\n\nРешение задачи перебоом: 2? + ?5 = 69\n");
+        System.out.printf("\n\nРешение задачи перебоом: 2? + ?5 = 69\n\n");
         int e = 0;
         boolean flag = false;
         
