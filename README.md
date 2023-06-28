@@ -1,4 +1,18 @@
-# java220523
+- Homework
+    - Homework_001
+    
+        Ex001 [КОД](/Homework/Homework_001/Ex_001/program.java)
+        
+        Ex002 [КОД](/Homework/Homework_001/Ex_002/program.java)
+        
+        Ex003 [КОД](/Homework/Homework_001/Ex_003/program.java) - калькулятор
+        
+        Ex004 [КОД](/Homework/Homework_001/Ex_004/program.java) - подбор решения
+
+    - **Homework_002**
+
+        Ex001 [КОД](/Homework/homework_002/program.java)
+
 
 Начал изучение
 
