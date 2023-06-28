@@ -1,4 +1,4 @@
-package Homework.Hhomework_002;
+package Homework.Homework_002;
 
 import java.io.File;
 import java.io.FileWriter;
