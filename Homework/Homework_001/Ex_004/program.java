@@ -21,13 +21,15 @@ public class program {
 
                 e = q1 + w1;
 
+                System.out.printf("Подбор: %d+%d=%d ", q1, w1, e);   
+
                 if(e==69) {
                     System.out.printf("\n\nРешение для ответа 2? + ?5 = 69 найдено = %d . Значения %d и %d - символы q=%s и w=%s\n\n" + //
                             "", e, q1, w1, q, w);
                     flag = true;
                     break;
                 }
-                System.out.printf("Подбор: %d+%d=%d ", q1, w1, e);                
+                             
             }
         }
         if (!flag) {
