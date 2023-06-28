@@ -10,10 +10,11 @@ public class program {
 
         System.out.printf("\n\nРешение задачи перебоом: 2? + ?5 = 69\n\n");
         int e = 0;
+        int count = 0;
         boolean flag = false;
         
         for (char q = '0'; q <= '9'; q++)  {            
-            if (flag) break;
+            //if (flag) break;
             for (char w = '0'; w <= '9'; w++) {
                 // 2q + w5 = 69.
                 int q1 = Integer.parseInt("2" + String.valueOf(q));
@@ -24,10 +25,12 @@ public class program {
                 System.out.printf("Подбор: %d+%d=%d ", q1, w1, e);   
 
                 if(e==69) {
-                    System.out.printf("\n\nРешение для ответа 2? + ?5 = 69 найдено = %d . Значения %d и %d - символы q=%s и w=%s\n\n" + //
-                            "", e, q1, w1, q, w);
+                    count++;
+                    System.out.printf("\n\nРешение для ответа 2? + ?5 = 69 найдено = %d . Раз: %d. Значения %d и %d - символы q=%s и w=%s\n\n" + //
+                            "", e, count, q1, w1, q, w);
                     flag = true;
-                    break;
+                    
+                    //break;
                 }
                              
             }
