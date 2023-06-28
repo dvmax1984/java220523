@@ -18,13 +18,17 @@
     - Seminar_001
 
         Ex001 [КОД](/Seminar/Seminar_001/Seminar1.java)
+
         Ex002 [КОД](/Seminar/Seminar_001/Seminar2.java)
+
         Ex003 [КОД](/Seminar/Seminar_001/Seminar3.java)
+
         Ex004 [КОД](/Seminar/Seminar_001/Seminar4.java)
     
     - **Seminar_002**
 
         Ex001 [КОД](/Seminar/Seminar_002/program.java)
+        
         Ex002 [КОД](/Seminar/Seminar_002/program1.java) - чтение каталога и запись файла
 
 - Lecture
