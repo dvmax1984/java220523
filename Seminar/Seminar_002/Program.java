@@ -35,19 +35,19 @@ public class program {
     static String[] showCurrentFiles(String dirPath) {
             File currentDir = new File(dirPath);
             return currentDir.list();
-        }
+    }
         
-        static void addingToFile(String filePath, String text) {
-    try {
-        File myFile = new File(filePath);
-        FileWriter writer = new FileWriter(myFile, true);
+    static void addingToFile(String filePath, String text) {
+        try {
+            File myFile = new File(filePath);
+            FileWriter writer = new FileWriter(myFile, true);
 
-        writer.write(text);
-        writer.close();
-        } 
+            writer.write(text);
+            writer.close();
+            } 
         catch (Exception e) {
-        System.out.println(e.getMessage());
-        }
+            System.out.println(e.getMessage());
+            }
     }
 
     static void addListToFile(String filePath, String[] list) throws SecurityException, IOException {
