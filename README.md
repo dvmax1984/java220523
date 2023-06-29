@@ -11,7 +11,11 @@
 
     - **Homework_002**
 
-        Ex001 [КОД](/Homework/homework_002/program.java)
+        Ex001 [КОД](/Homework/Homework_002/Ex_001/program.java)
+
+        Ex004 [КОД](/Homework/Homework_002/Ex_004/program.java) - запись действий калькул в файл
+
+        Ex005 [КОД](/Homework/Homework_002/Ex_005/program.java) - преобразование JSON 2 SQL
 
 - Seminar
 
