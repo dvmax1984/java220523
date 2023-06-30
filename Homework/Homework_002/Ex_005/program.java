@@ -41,7 +41,7 @@ public class program {
         }
         
         replaceAll(sb2, "=", "='");
-        replaceAll(sb2, ", ", "', '");
+        replaceAll(sb2, ", ", "' AND ");
         System.out.println("Результирущая строка для SQL запроса : " + str0 + sb2 + "'"); 
     }
 
