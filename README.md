@@ -11,7 +11,11 @@
 
     - **Homework_002**
 
-        Ex001 [КОД](/Homework/Homework_002/Ex_001/program.java)
+        Ex001 [КОД](/Homework/Homework_002/Ex_001/program.java) - список файлов в каталоге, вывод расширений
+
+        Ex002 [КОД](/Homework/Homework_002/Ex_002/program.java) - сортировка пузырьком и запись в файл
+
+        Ex003 [КОД](/Homework/Homework_002/Ex_003/program.java) - парсинг JSON
 
         Ex004 [КОД](/Homework/Homework_002/Ex_004/program.java) - запись действий калькул в файл
 
