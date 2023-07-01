@@ -51,6 +51,22 @@
         Ex001 [КОД](/Lecture/Lecture_002/)
 
 
+**Компиляция в jar**
+===
+1) javac program.java
+
+2) jar cvf program.java program.class 
+
+3) jar cfm program.jar manifest.mf program.class
+
+jar cfm program.jar META-INF/MANIFEST.MF Homework/Homework_002/Ex_001/program.class
+
+**MANIFEST.MF**
+======
+Manifest-Version: 1.0
+Main-Class: Homework.Homework_002.Ex_001.program
+======
+
 
 Начал изучение
 
