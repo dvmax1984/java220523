@@ -19,7 +19,7 @@ public class program {
     static String[] showCurrentFiles(String dirPath) throws SecurityException, IOException {       
         File currentDir = new File(dirPath);
         if (currentDir.listFiles() == null) { 
-            System.out.println("Каталог не содержит файлов");
+            System.out.println("Каталог не содержит файлов!");
         }
         return currentDir.list(); 
     }
