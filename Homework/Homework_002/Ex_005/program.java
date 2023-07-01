@@ -46,12 +46,12 @@ public class program {
     }
 
     public static void replaceAll(StringBuilder builder, String from, String to) {
-        int index = builder.indexOf(from);
+        int index = builder.indexOf(from); // определеяем индекс в строке по символу
     
         while (index != -1) {
-        builder.replace(index, index + from.length(), to);
-        index += to.length();
-        index = builder.indexOf(from, index);
+            builder.replace(index, index + from.length(), to);
+            index += to.length();
+            index = builder.indexOf(from, index);
     }
 }
  
