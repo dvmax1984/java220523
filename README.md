@@ -23,9 +23,9 @@
 
     - **Homework_003**
 
-        Ex001 [КОД](/Homework/Homework_003/Ex_001/program.java) - список файлов в каталоге, вывод расширений
+        Ex001 [КОД](/Homework/Homework_003/Ex_001/program.java) - список, min, maxm avg
 
-        Ex002 [КОД](/Homework/Homework_003/Ex_002/program.java) - сортировка пузырьком и запись в файл
+        Ex002 [КОД](/Homework/Homework_003/Ex_002/program.java) - список удаление дубликатов
 
 
 - Seminar
