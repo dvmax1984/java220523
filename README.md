@@ -9,7 +9,7 @@
         
         Ex004 [КОД](/Homework/Homework_001/Ex_004/program.java) - подбор решения
 
-    - **Homework_002**
+    - Homework_002
 
         Ex001 [КОД](/Homework/Homework_002/Ex_001/program.java) - список файлов в каталоге, вывод расширений
 
@@ -20,6 +20,12 @@
         Ex004 [КОД](/Homework/Homework_002/Ex_004/program.java) - запись действий калькул в файл
 
         Ex005 [КОД](/Homework/Homework_002/Ex_005/program.java) - преобразование JSON 2 SQL
+
+    - **Homework_003**
+
+        Ex001 [КОД](/Homework/Homework_003/Ex_001/program.java) - список файлов в каталоге, вывод расширений
+
+        Ex002 [КОД](/Homework/Homework_003/Ex_002/program.java) - сортировка пузырьком и запись в файл
 
 
 - Seminar
