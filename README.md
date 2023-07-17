@@ -27,6 +27,11 @@
 
         Ex002 [КОД](/Homework/Homework_003/Ex_002/program.java) - список удаление дубликатов
 
+    - Homework_004
+
+        Ex001 [КОД](/Homework/Homework_004/Ex_001/program.java) - Deque, 
+        Ex002 [КОД](/Homework/Homework_004/Ex_002/program.java) - Deque, 
+
     - **Homework_006**
 
         Ex001 [КОД](/Homework/Homework_006/program.java) - классы
