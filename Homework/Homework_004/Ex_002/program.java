@@ -3,6 +3,9 @@ package Homework.Homework_004.Ex_002;
 import java.util.Deque;
 import java.util.LinkedList;
 
+/*Даны два Deque, представляющие два целых числа. 
+Цифры хранятся в обратном порядке и каждый из их узлов содержит одну цифру.
+2) Сложите два числа и верните сумму в виде связанного списка. Одно или два числа должны быть отрицательными.*/
 public class program {
     
     public static void main(String[] args) {

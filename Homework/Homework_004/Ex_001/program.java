@@ -3,6 +3,11 @@ package Homework.Homework_004.Ex_001;
 import java.util.Deque;
 import java.util.LinkedList;
 
+/*Даны два Deque, представляющие два целых числа. 
+Цифры хранятся в обратном порядке и каждый из их узлов содержит одну цифру.
+1) Умножьте два числа и верните произведение в виде связанного списка */
+
+
 public class program {
 
     public static void main(String[] args) {
