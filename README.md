@@ -29,8 +29,9 @@
 
     - Homework_004
 
-        Ex001 [КОД](/Homework/Homework_004/Ex_001/program.java) - Deque, 
-        Ex002 [КОД](/Homework/Homework_004/Ex_002/program.java) - Deque, 
+        Ex001 [КОД](/Homework/Homework_004/Ex_001/program.java) - Deque1 - умножение
+        
+        Ex002 [КОД](/Homework/Homework_004/Ex_002/program.java) - Deque2 - сумма
 
     - **Homework_006**
 
