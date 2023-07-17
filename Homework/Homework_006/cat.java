@@ -27,6 +27,10 @@ public class cat {
         System.out.println(nickname  + " Мяукнул: Мяу, дай молока!");
     }
 
+    public void run() {
+        System.out.println(nickname  + " ловит солнечного зайчика.");
+    }
+
     public void sleep() {
         System.out.println(nickname  + " ушел спать.");
     }

@@ -18,12 +18,14 @@ public class program {
 
         cat1.print();
         cat1.meow();
+        cat1.run();
         cat1.sleep();
 
         System.out.println();
 
         cat2.print();
         cat2.meow();
+        cat2.run();
         cat2.sleep();
     }
 }
