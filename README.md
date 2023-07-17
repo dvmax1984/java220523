@@ -33,6 +33,10 @@
         
         Ex002 [КОД](/Homework/Homework_004/Ex_002/program.java) - Deque2 - сумма
 
+    - Homework_005
+
+        Ex001 [КОД](/Homework/Homework_005/program.java) - классы
+
     - **Homework_006**
 
         Ex001 [КОД](/Homework/Homework_006/program.java) - классы
