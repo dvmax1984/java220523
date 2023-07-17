@@ -21,11 +21,15 @@
 
         Ex005 [КОД](/Homework/Homework_002/Ex_005/program.java) - преобразование JSON 2 SQL
 
-    - **Homework_003**
+    - Homework_003
 
         Ex001 [КОД](/Homework/Homework_003/Ex_001/program.java) - список, min, maxm avg
 
         Ex002 [КОД](/Homework/Homework_003/Ex_002/program.java) - список удаление дубликатов
+
+    - **Homework_006**
+
+        Ex001 [КОД](/Homework/Homework_006/program.java) - классы
 
 
 - Seminar
